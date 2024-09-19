@@ -1,7 +1,7 @@
-Calculator Project
+#Calculator Project
 A simple graphical calculator built with Python and Tkinter.
 
-Table of Contents
+#Table of Contents
 Features
 Installation
 Usage
@@ -9,15 +9,15 @@ Code Structure
 Contributing
 License
 
-Features
+# Features
 Basic arithmetic operations: addition, subtraction, multiplication, division
 Clear entry field button
 Error handling for invalid input
 
-Installation
+# Installation
 To run the calculator, you'll need to have Python and Tkinter installed on your system. Here are the steps:
 
-Clone the repository: git clone https://github.com/Vijay-48/PRODIGY_AD_01.git
+Clone the repository: git clone https://github.com/Vijay-48/Calculator.git
 Navigate to the project directory: cd calculator
 Run the calculator: python calculator.py
 Usage
@@ -27,7 +27,7 @@ Click on the buttons to enter numbers and operators.
 Press the "=" button to evaluate the expression.
 Press the "C" button to clear the entry field.
 
-Code Structure
+# Code Structure
 The code is organized into a single class, Calculator, which contains the following methods:
 
 __init__: Initializes the calculator window and entry field.
@@ -38,7 +38,7 @@ run: Runs the calculator's main loop.
 Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-License
+# License
 This project is licensed under the MIT License. See LICENSE for details.
 
 # Calculator Project
